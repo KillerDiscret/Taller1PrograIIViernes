@@ -4,6 +4,7 @@
 using namespace std;
 class ArrePersona
 {
+	//////////////////////////////////
 private:
 	Persona **arreglo;
 public:
