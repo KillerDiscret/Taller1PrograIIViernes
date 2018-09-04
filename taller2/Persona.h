@@ -17,7 +17,7 @@ Persona::Persona()
 }
 void Persona::setNombre(char *Nombre)
 {
-	this->nombre = nombre;
+	this->nombre = Nombre;
 }
 char *Persona::getNombre()
 {
